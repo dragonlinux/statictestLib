@@ -9,5 +9,6 @@
 #define FUNCTION_H_
 
 int fun1(void);
+int fun2(void);
 
 #endif /* FUNCTION_H_ */
