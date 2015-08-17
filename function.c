@@ -11,6 +11,11 @@
 #include <stdlib.h>
 
 int fun1(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("fun1");
 	return EXIT_SUCCESS;
+}
+
+int fun2(void) {
+	puts("fun2");
+	return 0;
 }
